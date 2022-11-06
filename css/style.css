@@ -112,6 +112,9 @@ nav a:hover{
 
 #about-text{
     padding-left: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 #contact{
