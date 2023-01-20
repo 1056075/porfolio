@@ -107,8 +107,16 @@ nav a:hover{
 
 #about-me{
     display: flex;
-    height: 90vh;
     padding: 10px;
+}
+
+.pasfoto{
+    margin-bottom: 10px;
+    height: 90vh;
+}
+
+.smallerimg{
+    width: 40vw;
 }
 
 #about-text{
@@ -210,6 +218,7 @@ footer img{
 
     .pasfoto{
         margin-bottom: 10px;
+        height: 90vh;
     }
 
     input{
