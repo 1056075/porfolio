@@ -76,6 +76,7 @@ nav a:hover{
 .project:nth-child(3) { animation-delay: 1.5s }
 .project:nth-child(4) { animation-delay: 2s }
 .project:nth-child(5) { animation-delay: 2.5s }
+.project:nth-child(6) { animation-delay: 3s }
 
 /*Animation projecten*/
 @keyframes sliderechts {
